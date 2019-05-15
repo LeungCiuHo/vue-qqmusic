@@ -4,7 +4,7 @@
 	</div>
 </template>
 <script>
-	import Songranks from 'ranking/songranks/songranks'
+	import Songranks from 'components/songranks/songranks'
 	export default{
 		name:'ranking',
 		components:{

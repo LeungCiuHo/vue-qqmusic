@@ -5,8 +5,8 @@
 	</div>
 </template>
 <script>
-	import qqSwiper from 'recomment/swiper/swiper'
-	import qqSongList from 'recomment/songlist/songlist'
+	import qqSwiper from 'components/swiper/swiper'
+	import qqSongList from 'components/songlist/songlist'
 	import {getRecomment,getext,ERROR_OK} from '@/api/getIndex.js'
 
 	export default{

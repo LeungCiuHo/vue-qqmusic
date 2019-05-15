@@ -8,12 +8,13 @@ module.exports = {
         config.resolve.alias
             .set('vue$', 'vue/dist/vue.esm.js')
             .set('@', resolve('src'))
-            .set('components',resolve('src/components'))
-            .set('barlist',resolve('src/components/index/barlist'))
-            .set('recomment',resolve('src/components/index/barlist/recomment'))
-            .set('ranking',resolve('src/components/index/barlist/ranking'))
-            .set('search',resolve('src/components/index/barlist/search'))
-            .set('gedanlist',resolve('src/components/gedanlist'))
+            .set('components', resolve('src/components'))
+            .set('views', resolve('src/views'))
+            .set('barlist', resolve('src/components/index/barlist'))
+            .set('recomment', resolve('src/views/recomment'))
+            .set('ranking', resolve('src/views/ranking'))
+            .set('search', resolve('src/views/search'))
+            .set('gedanlist', resolve('src/views/gedanlist'))
   },
   devServer: {
     proxy: {

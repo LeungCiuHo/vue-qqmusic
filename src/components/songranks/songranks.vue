@@ -129,7 +129,7 @@
 		height:100px;
 	}
 	.play_ringtone{
-		background:url('../../../../../assets/list_sprite.png') no-repeat;
+		background:url('../../assets/list_sprite.png') no-repeat;
 		background-size:24px;
 	    height: 10px;
 	    bottom: 5px;
