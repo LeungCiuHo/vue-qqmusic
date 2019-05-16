@@ -2,7 +2,7 @@
     <div id='header'>
         <div class="header">
             <img class="logo" src="@/assets/logo.png" alt="">
-            <a class="btn" href="javascript:;">下载APP</a>
+            <a class="btn" href="javascript:;">Vue</a>
         </div>
     </div>
 </template>
