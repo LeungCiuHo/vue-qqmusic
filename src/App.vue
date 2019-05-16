@@ -16,6 +16,7 @@
 <style>
  	body,html{
 		height:100%;
+		overflow:auto;
 	}
 	body{
 		background:rgb(255,255,255);
