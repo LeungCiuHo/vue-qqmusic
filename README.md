@@ -21,7 +21,7 @@ npm run lint
 
 ## Preview
 
-![recommend](vue-qqmusic\public\static\recommend.jpg)
+![recommend](https://github.com/LeungCiuHo/vue-qqmusic/blob/master/public/static/recommend.jpg)
 
 
 
