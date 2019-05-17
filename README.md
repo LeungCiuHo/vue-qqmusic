@@ -18,3 +18,15 @@ npm run build
 ```
 npm run lint
 ```
+
+## Preview
+
+![recommend](G:\YQH5\vue\project\vue-qqmusic\public\static\recommend.jpg)
+
+
+
+![ranking](G:\YQH5\vue\project\vue-qqmusic\public\static\ranking.jpg)
+
+
+
+![search](G:\YQH5\vue\project\vue-qqmusic\public\static\search.jpg)
