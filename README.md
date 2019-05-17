@@ -25,8 +25,8 @@ npm run lint
 
 
 
-![ranking](G:\YQH5\vue\project\vue-qqmusic\public\static\ranking.jpg)
+![ranking](https://github.com/LeungCiuHo/vue-qqmusic/blob/master/public/static/ranking.jpg)
 
 
 
-![search](G:\YQH5\vue\project\vue-qqmusic\public\static\search.jpg)
+![search](https://github.com/LeungCiuHo/vue-qqmusic/blob/master/public/static/search.jpg)
